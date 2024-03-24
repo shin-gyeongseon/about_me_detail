@@ -4,19 +4,29 @@
 
 ## 🛠 Tech Stack
 
-제가 사용하는 도구와 기술은 다음과 같습니다.
+제가 사용하는 도구와 기술은 다음과 같습니다. 괄호()는 기술의 숙련도를 의미함.
 
+### Language (Score: 60)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Ochestration (70)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### CI/CD (70)
 ![Argo](https://img.shields.io/badge/-Argo-4A4A55?style=for-the-badge&logo=argo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/-Loki-FFCA28?style=for-the-badge&logo=grafana&logoColor=black)
 ![Harbor](https://img.shields.io/badge/-Harbor-34A5DA?style=for-the-badge&logo=harbor&logoColor=white)
 ![Kaniko](https://img.shields.io/badge/-Kaniko-34A5DA?style=for-the-badge&logo=kaniko&logoColor=white)
 
+### Monitoring (40)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-FFCA28?style=for-the-badge&logo=grafana&logoColor=black)
+
+### Data Pipeline (30)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 저는 이러한 기술을 사용하는 것을 좋아하며 CNCF(Cloud Native Computing Foundation)기반 DevOps 관행을 향상시키기 위한 새로운 도구를 끊임없이 탐색합니다.
 
