@@ -43,7 +43,7 @@ DevOps, 기술 찍먹, 개인적인 실수에 대해 글을 쓰는 Medium의 내
 궁금한 점이 있거나 연결을 원하시면 언제든지 문의해 주세요.
 
 - [GitHub](#)
-- [Email](gsshin:tlsrid1119@gmail.com)
+- [Email](mailto:tlsrid1119@gmail.com)
 
 <!-- You can add your actual LinkedIn, GitHub, and Email links where the '#' is placed -->
 
