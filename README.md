@@ -13,17 +13,21 @@ DevOps 엔지니어로서 CI/CD 파이프라인 구축, 모니터링, 컨테이�
 
 ### Language
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Ochestration
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### CI/CD
-![Argo](https://img.shields.io/badge/-Argo-4A4A55?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-009688?style=for-the-badge&logo=argo-cd&logoColor=white)
 ![Harbor](https://img.shields.io/badge/-Harbor-34A5DA?style=for-the-badge&logo=harbor&logoColor=white)
 ![Kaniko](https://img.shields.io/badge/-Kaniko-34A5DA?style=for-the-badge&logo=kaniko&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### Monitoring
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
