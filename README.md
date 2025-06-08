@@ -2,7 +2,7 @@
 
 👋 안녕하세요! **이제 5년 차 경력을 향해 나아가는** 엔지니어입니다.
 
-지난 **만 4년 동안 Server Engineer로 첫걸음을 떼어 안정적인 백엔드 시스템 설계 및 개발에 집중했으며, 이후 DevOps 엔지니어로 역할을 전환하여 자동화와 시스템 최적화 경험**을 쌓았습니다.
+지난 **만 4년 동안 Backend Developer로 첫걸음을 떼어 안정적인 백엔드 시스템 설계 및 개발에 집중했으며, 이후 DevOps 엔지니어로 역할을 전환하여 자동화와 시스템 최적화 경험**을 쌓았습니다.
 
 저는 주어진 과제를 그대로 수행하기보다 **'이것이 왜 필요한가?'라는 질문에서 출발하여 문제의 본질을 파고드는 엔지니어**입니다. 이러한 고민을 통해 **유지보수가 쉽고, 잠재적 문제를 빠르게 감지하며, 변화에 유연하게 대응할 수 있는 확장성 높은 시스템**을 구축하고자 노력합니다.
 
@@ -39,11 +39,6 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 CNCF(Cloud Native Computing Foundation)기반 DevOps 관행을 향상시키기 위한 새로운 도구를 끊임없이 탐색합니다🔥🔥
-
-## 🌐 Blog
-
-경험 글로 남기로 있습니다.
-- [Medium Blog](https://medium.com/@tlsrid1119)
 
 <!-- Add your Medium Blog URL in place of '#' -->
 
